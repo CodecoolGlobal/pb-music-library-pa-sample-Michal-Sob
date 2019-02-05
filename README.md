@@ -51,11 +51,6 @@ Data exported to file should have the same format.
 
 For your implementation operate only on _albums_data.txt_ Rest of .txt files are for testing purposes only - **DO NOT MODIFY THEM!**
 
-
-## General info about requirements
-
-Passing tests is something you need to get 10 points. However, if during manual testing we find errors not found by tests from _tests.py_, you will not get max points for requirements.
-
 ## Requirements
 
 1. Implement all functions from file_handling, music_reports and main_program modules
